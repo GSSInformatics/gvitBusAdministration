@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <array name="busNumbersList">
+        <item>BusNo1</item>
+        <item>BusNo2</item>
+        <item>BusNo3</item>
+        <item>BusNo4</item>
+        <item>BusNo5</item>
+        <item>BusNo6</item>
+        <item>BusNo7</item>
+        <item>BusNo8</item>
+        <item>BusNo9</item>
+        <item>BusNo10</item>
+        <item>BusNo11</item>
+        <item>BusNo12</item>
+        <item>BusNo13</item>
+        <item>BusNo14</item>
+        <item>BusNo15</item>
+        <item>BusNo16</item>
+        <item>BusNo17</item>
+        <item>BusNo18</item>
+        <item>BusNo19</item>
+        <item>BusNo20</item>
+        <item>BusNo21</item>
+        <item>BusNo22</item>
+        <item>BusNo23</item>
+    </array>
+    
+</resources>

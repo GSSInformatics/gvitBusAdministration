@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="BusNo1">
+        <item>Bhimavaram 1</item>
+        <item>Town 1</item>
+        <item>Akividu 1</item>
+        <item>Pedaram 1</item>
+        <item>Jillugumali 1</item>        
+    </string-array>
+    
+    <string-array name="BusNo2">
+        <item>Bhimavaram 2</item>
+        <item>Town 2</item>
+        <item>Akividu 2</item>
+        <item>Pedaram 2</item>
+        <item>Jillugumali 2</item>        
+    </string-array>
+    
+    <string-array name="BusNo3">
+        <item>Bhimavaram 3</item>
+        <item>Town 3</item>
+        <item>Akividu 3</item>
+        <item>Pedaram 3</item>
+        <item>Jillugumali 3</item>        
+    </string-array>
+    <string-array name="BusNo4">
+        <item>Bhimavaram 4</item>
+        <item>Town 4</item>
+        <item>Akividu 4</item>
+        <item>Pedaram 4</item>
+        <item>Jillugumali 4</item>        
+    </string-array>
+    <string-array name="BusNo5">
+        <item>Bhimavaram 5</item>
+        <item>Town 5</item>
+        <item>Akividu 5</item>
+        <item>Pedaram 5</item>
+        <item>Jillugumali 5</item>        
+    </string-array>
+    <string-array name="BusNo6">
+        <item>Bhimavaram 6</item>
+        <item>Town 6</item>
+        <item>Akividu 6</item>
+        <item>Pedaram 6</item>
+        <item>Jillugumali 6</item>        
+    </string-array>
+    <string-array name="BusNo7">
+        <item>Bhimavaram 7</item>
+        <item>Town 7</item>
+        <item>Akividu 7</item>
+        <item>Pedaram 7</item>
+        <item>Jillugumali 7</item>        
+    </string-array>
+    <string-array name="BusNo8">
+        <item>Bhimavaram 8</item>
+        <item>Town 8</item>
+        <item>Akividu 8</item>
+        <item>Pedaram 8</item>
+        <item>Jillugumali 8</item>        
+    </string-array>
+    <string-array name="BusNo9">
+        <item>Bhimavaram 9</item>
+        <item>Town 9</item>
+        <item>Akividu 9</item>
+        <item>Pedaram 9</item>
+        <item>Jillugumali 9</item>        
+    </string-array>
+    <string-array name="BusNo10">
+        <item>Bhimavaram 10</item>
+        <item>Town 10</item>
+        <item>Akividu 10</item>
+        <item>Pedaram 10</item>
+        <item>Jillugumali 10</item>       
+    </string-array>
+    <string-array name="BusNo11">
+        <item>Bhimavaram 11</item>
+        <item>Town 11</item>
+        <item>Akividu 11</item>
+        <item>Pedaram 11</item>
+        <item>Jillugumali 11</item>       
+    </string-array>
+    <string-array name="BusNo12">
+        <item>Bhimavaram 12</item>
+        <item>Town 12</item>
+        <item>Akividu 12</item>
+        <item>Pedaram 12</item>
+        <item>Jillugumali 12</item>       
+    </string-array>
+    <string-array name="BusNo13">
+        <item>Bhimavaram 13</item>
+        <item>Town 13</item>
+        <item>Akividu 13</item>
+        <item>Pedaram 13</item>
+        <item>Jillugumali 13</item>       
+    </string-array>
+    <string-array name="BusNo14">
+        <item>Bhimavaram 14</item>
+        <item>Town 14</item>
+        <item>Akividu 14</item>
+        <item>Pedaram 14</item>
+        <item>Jillugumali 14</item>       
+    </string-array>
+    <string-array name="BusNo15">
+        <item>Bhimavaram 15</item>
+        <item>Town 15</item>
+        <item>Akividu 15</item>
+        <item>Pedaram 15</item>
+        <item>Jillugumali 15</item>       
+    </string-array>
+    <string-array name="BusNo16">
+        <item>Bhimavaram 16</item>
+        <item>Town 16</item>
+        <item>Akividu 16</item>
+        <item>Pedaram 16</item>
+        <item>Jillugumali 16</item>       
+    </string-array>
+    <string-array name="BusNo17">
+        <item>Bhimavaram 17</item>
+        <item>Town 17</item>
+        <item>Akividu 17</item>
+        <item>Pedaram 17</item>
+        <item>Jillugumali 17</item>       
+    </string-array>
+    <string-array name="BusNo18">
+        <item>Bhimavaram 18</item>
+        <item>Town 18</item>
+        <item>Akividu 18</item>
+        <item>Pedaram 18</item>
+        <item>Jillugumali 18</item>       
+    </string-array>
+    <string-array name="BusNo19">
+        <item>Bhimavaram 19</item>
+        <item>Town 19</item>
+        <item>Akividu 19</item>
+        <item>Pedaram 19</item>
+        <item>Jillugumali 9</item>       
+    </string-array>
+    <string-array name="BusNo20">
+        <item>Bhimavaram 20</item>
+        <item>Town 20</item>
+        <item>Akividu 20</item>
+        <item>Pedaram 20</item>
+        <item>Jillugumali 20</item>       
+    </string-array>
+    <string-array name="BusNo21">
+        <item>Bhimavaram 21</item>
+        <item>Town 21</item>
+        <item>Akividu 21</item>
+        <item>Pedaram 21</item>
+        <item>Jillugumali 21</item>       
+    </string-array>
+    <string-array name="BusNo22">
+        <item>Bhimavaram 22</item>
+        <item>Town 22</item>
+        <item>Akividu 22</item>
+        <item>Pedaram 22</item>
+        <item>Jillugumali 22</item>       
+    </string-array>
+    <string-array name="BusNo23">
+        <item>Bhimavaram 23</item>
+        <item>Town 23</item>
+        <item>Akividu 23</item>
+        <item>Pedaram 23</item>
+        <item>Jillugumali 23</item>       
+    </string-array>
+</resources>
